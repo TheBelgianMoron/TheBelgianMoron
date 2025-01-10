@@ -1,5 +1,5 @@
 # Hi, Welcome on my profile!
-[![Seal is supposed to be here](https://media.tenor.com/86fFqjiVRwMAAAAM/wave-seal.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![Seal is supposed to be here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWcotHoUxCyS1-mgidz3ppWmsPjoj807L6A&s)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ## About me
 ```
