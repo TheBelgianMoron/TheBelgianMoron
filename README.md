@@ -17,7 +17,7 @@ Hobbies: Gaming, Scuba Diving
 | Honkai Star Rail      | GTAV     |
 
 ## Current Projects
-* Roblox Tower Defense Game (With @BTLOdragons)
+* Roblox Tower Defense Game (With [@BTLOdragons](https://github.com/BTLOdragons))
 * Library site for school library 
 
 ## Contact
