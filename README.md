@@ -12,13 +12,15 @@ Hobbies: Gaming, Scuba Diving
 ## Games List
 | Recently Played  | All time Favorites |
 | ------------- |:-------------:|
-| Fisch      | HALO: OTSD     |
-| War Thunder      |Minecarft  |
-| Honkai Star Rail      | GTAV     |
+| Honkai Star Rail   | HALO: OTSD     |
+| War Thunder      |Minecraft  |
+| Zenless Zone Zero     | GTAV     |
+| Minecaraft Modded      | Honkai Star Rail    |
 
 ## Current Projects
 * Roblox Tower Defense Game (With [@BTLOdragons](https://github.com/BTLOdragons))
-* Library site for school library 
+* Library site for school library
+* Brainsmash (finished, Go check it out [here](https://brainsmash.be)!)
 
 ## Contact
 * Mail: <ignacevermeulen8@gmail.com>
