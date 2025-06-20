@@ -36,11 +36,7 @@ Collab with my fellow students for our school library
 ---
 
 ### 🤖 AI Web App  
-Frontend op [Vercel](https://vercel.com), backend via [Render](https://render.com), AI-logica via OpenAI/Cohere, en [cron-job.org](https://cron-job.org) voor periodieke pingtaken.  
-![Vercel](https://img.shields.io/badge/Frontend-Vercel-black?logo=vercel)
-![Render](https://img.shields.io/badge/Backend-Render-blue?logo=render)
-![MongoDB](https://img.shields.io/badge/Database-MongoDB-green?logo=mongodb)
-![GitHub](https://img.shields.io/badge/Code-GitHub-black?logo=github)
+IN-DEV
 
 ---
 
