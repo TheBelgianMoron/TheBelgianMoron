@@ -5,11 +5,10 @@
 ---
 
 ## 👨‍💻 About Me
-###Name: Ignace Vermeulen
-###School: Het Spectrum Gent
-###Study: Application- and Datamanagement
-###Hobbies: Gaming, Scuba Diving
-
+- **Name:** Ignace Vermeulen  
+- **School:** Het Spectrum Gent  
+- **Study:** Application- and Datamanagement  
+- **Hobbies:** Gaming, Scuba Diving  
 ---
 
 ## 🎮 Games List
