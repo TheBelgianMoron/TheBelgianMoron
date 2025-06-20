@@ -5,11 +5,10 @@
 ---
 
 ## 👨‍💻 About Me
-Name: Ignace Vermeulen
-School: Het Spectrum Gent
-Study: Application- and Datamanagement
-Hobbies: Gaming, Scuba Diving
-
+###Name: Ignace Vermeulen
+###School: Het Spectrum Gent
+###Study: Application- and Datamanagement
+###Hobbies: Gaming, Scuba Diving
 
 ---
 
@@ -48,7 +47,7 @@ Frontend op [Vercel](https://vercel.com), backend via [Render](https://render.co
 
 ### 🧠 Brainsmash  
 ✔️ Done!  
-🔗 [Speel het hier!](https://brainsmash.be)
+🔗 [Play here!](https://brainsmash.be)
 
 ---
 
