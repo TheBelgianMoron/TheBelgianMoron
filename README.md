@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome on my profile!
 
-[![Seal is supposed to be here](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWcotHoUxCyS1-mgidz3ppWmsPjoj807L6A&s)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
+[![Seal is supposed to be here]([https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnWcotHoUxCyS1-mgidz3ppWmsPjoj807L6A&s](https://tenor.com/nl/view/seal-gif-14686660017694851989))](https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley)
 
 ---
 
