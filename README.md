@@ -1,6 +1,6 @@
 # 👋 Hi, Welcome on my profile!
 
-[![Seal is supposed to be here](https://tenor.com/nl/view/seal-gif-14686660017694851989)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Seal is supposed to be here](https://media1.tenor.com/m/y9F_eQuiQ5UAAAAd/seal.gif)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
 
 ---
