@@ -27,14 +27,6 @@
 
 ---
 
-### 🤖 AI Web App
-
-A local Q&A application leveraging the Ollama LLM to provide detailed answers about computer hardware.  
-Uses a `.docx` file as context for more accurate, domain-specific responses.  
-See more [here](https://github.com/TheBelgianMoron/AI-Web-App)!
-
----
-
 ### 📟 RNG Game
 
 Silly project im a part of.
