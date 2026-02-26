@@ -7,8 +7,8 @@
 
 ## 👨‍💻 About Me
 - **Name:** Ignace Vermeulen  
-- **School:** Het Spectrum Gent  
-- **Study:** Application- and Datamanagement  
+- **School:** HoGent 
+- **Study:** Applied ComputerScience
 - **Hobbies:** Gaming, Scuba Diving  
 ---
 
@@ -19,20 +19,11 @@
 | Honkai: Star Rail        | HALO: ODST                |
 | War Thunder              | Minecraft                 |
 | Zenless Zone Zero        | Grand Theft Auto V        |
-| Minecraft Modded         | Honkai: Star Rail         |
+| Arknights: Endfield       | Honkai: Star Rail         |
 
 ---
 
 ## 🚧 Current Projects
-
-### 🎮 Roblox Tower Defense Game  
-In collaboration with [@BTLOdragons](https://github.com/BTLOdragons)  
-🛠️ Features: Tanks, enemies, maps and stores
-
----
-
-### 📚 Library Site – Schoolproject  
-Collab with my fellow students for our school library
 
 ---
 
@@ -44,11 +35,14 @@ See more [here](https://github.com/TheBelgianMoron/AI-Web-App)!
 
 ---
 
-### 🧠 Brainsmash  
-✔️ Done!  
-🔗 [Play here!](https://brainsmash.be)
+### 📟 RNG Game
+
+Silly project im a part of.
+Working with [BTLOdragons](https://github.com/BTLOdragons)
+See more [here](https://github.com/mizukoku/RNGGame)!
 
 ---
+
 
 ## 📫 Contact
 
