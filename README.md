@@ -35,6 +35,12 @@ See more [here](https://github.com/mizukoku/RNGGame)!
 
 ---
 
+### 🔊 War Thunder Sound Modding
+
+Currently trying WT sound modding
+
+---
+
 
 ## 📫 Contact
 
